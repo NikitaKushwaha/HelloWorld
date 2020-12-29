@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7E3E-9F37
+
+ Directory of C:\Users\Nikit\OneDrive\Desktop\JavaProject1
+
+29/12/2020  05:03 PM    <DIR>          .
+29/12/2020  05:03 PM    <DIR>          ..
+29/12/2020  12:50 PM               470 Hello.class
+29/12/2020  12:50 PM               142 Hello.java
+29/12/2020  12:57 PM               469 readme.txt
+29/12/2020  05:03 PM                 0 test1.txt
+               4 File(s)          1,081 bytes
+               2 Dir(s)   5,705,621,504 bytes free
